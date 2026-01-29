@@ -24,9 +24,4 @@ This project focuses on recreating the look and feel of Spotify’s web interfac
 
 ---
 
-## 📸 Screenshots
 
-_Add screenshots of your project here_
-
-```md
-![Soyify UI Clone Screenshot](./screenshot.png)
