@@ -19,18 +19,19 @@ This project focuses on recreating the look and feel of Spotify’s web interfac
 - **HTML5**
 - **CSS3**
   - Flexbox
+  - Grid
+  - Custom styling
+
+
  
 soyify-ui-clone/
-│
+│ 
 ├── index.html
 ├── style.css
 ├── assets/
 │   └── images/
 └── README.md
 
-  - Grid
-  - Custom styling
 
----
 
 
